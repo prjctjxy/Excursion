@@ -1,4 +1,4 @@
-html{
+body{
 	background-color: black;
 	text-align: center;
 } 
@@ -7,10 +7,23 @@ h1{
 	font-family: Verdana;
 	font-weight: normal;
 	font-size: 50px;
-	font-color: white;
+	color: white;
+}
+
+h2{
+	font-family: Verdana;
+	font-weight: 300px;
+	font-size: 42px;
+	color: white;
+}
+
+p{
+	font-family: Verdana;
+	color: gray;
+	font-size: 21px;
 }
 
 a{
-	text-color: aquamarine;
+	color: aquamarine;
 	font-size: 16px;
 }
